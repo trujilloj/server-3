@@ -1,0 +1,16 @@
+{
+  "name": "server-3",
+  "version": "1.0.0",
+  "description": "drill 3 server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose trujillo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
